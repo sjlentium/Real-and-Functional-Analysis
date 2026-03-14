@@ -1,11 +1,11 @@
-# Real and Functional Analysis – Course Notes
+# Analisi Reale e Funzionale – Appunti del Corso
 
-Detailed notes for the **Real and Functional Analysis** course within the Mathematical Engineering curriculum.
+Note dettagliate per il corso di **Analisi Reale e Funzionale** all'interno del percorso di Ingegneria Matematica.
 
-## 📌 Course Info
-* **Professor:** Prof. Fabio Punzo
-* **Academic Year:** 2025-2026
-* **Author:** Vittoria Mariani
+## 📌 Informazioni sul Corso
+* **Professore:** Prof. Fabio Punzo
+* **Anno Accademico:** 2025-2026
+* **Autore:** Vittoria Mariani
 
-## 🚀 View the Notes
-[**👉 Download / View PDF**](https://github.com/sjlentium/real-and-functional-analysis/blob/c787b611c15ecd47f66fd21ddbb64ec244a9a42b/Real_and_Functional_Analysis.pdf)
+## 🚀 Visualizza gli Appunti
+[**👉 Scarica / Visualizza PDF**](https://github.com/sjlentium/real-and-functional-analysis/blob/c787b611c15ecd47f66fd21ddbb64ec244a9a42b/Real_and_Functional_Analysis.pdf)
